@@ -200,8 +200,8 @@ Choose your guide and begin:
 ## Contact
 
 **Wash'n Dry Business:**
-- Phone: +31 40 244 5798
-- Address: Hoogstraat 115, 5615 PB Eindhoven, Netherlands
+- Phone: +31 12 345 6789
+- Address: Eindhoven, Netherlands
 
 ---
 

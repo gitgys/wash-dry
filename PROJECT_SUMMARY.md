@@ -15,8 +15,8 @@ A complete, production-ready website for your laundry business with:
 - **Modern Look** - Professional, contemporary design
 
 ### Business Information Included
-- **Location:** Hoogstraat 115, 5615 PB Eindhoven, Netherlands
-- **Phone:** +31 40 244 5798
+- **Location:** Eindhoven, Netherlands
+- **Phone:** +31 12 345 6789
 - **Business Hours:** Mon-Fri 7AM-7PM, Sat 8AM-6PM
 - **Services:** Professional washing, fast drying, express service, fabric care
 
@@ -122,12 +122,12 @@ Edit these files with your details:
 ```
 Phone Number:
 File: /components/Contact.tsx
-Find: +31402445798
+Find: +31123456789
 Replace: Your number
 
 Address:
 File: /components/Contact.tsx
-Find: Hoogstraat 115, 5615 PB Eindhoven
+Find: Eindhoven
 Replace: Your address
 
 Hours:
@@ -403,8 +403,8 @@ For immediate help:
 - Check Next.js and Vercel documentation
 
 For business inquiries:
-- Phone: +31 40 244 5798
-- Address: Hoogstraat 115, 5615 PB Eindhoven, Netherlands
+- Phone: +31 12 345 6789
+- Address: Eindhoven, Netherlands
 
 ---
 

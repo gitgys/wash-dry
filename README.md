@@ -89,8 +89,8 @@ Alternatively, connect your GitHub repository to Vercel for automatic deployment
 
 ### Update Contact Information
 Edit `/components/Contact.tsx` to update:
-- Phone number: `+31402445798`
-- Address: `Hoogstraat 115, 5615 PB Eindhoven, Netherlands`
+- Phone number: `+31123456789`
+- Address: ` Eindhoven, Netherlands`
 - Business hours
 - Google Maps embed code
 
@@ -177,8 +177,8 @@ The website includes:
 ## Contact & Support
 
 For the Wash'n Dry business:
-- Phone: +31 40 244 5798
-- Address: Hoogstraat 115, 5615 PB Eindhoven, Netherlands
+- Phone: +31 12 345 6789
+- Address: Eindhoven, Netherlands
 - Website: [Your deployed URL]
 
 ## License

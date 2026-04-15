@@ -63,12 +63,11 @@ export default function Footer() {
             <h3 className="font-semibold text-foreground mb-4">Contact Us</h3>
             <ul className="space-y-2 text-sm text-muted-foreground">
               <li>
-                <a href="tel:+31402445798" className="hover:text-blue-500 transition-colors">
-                  +31 40 244 5798
+                <a href="tel:+31123456789" className="hover:text-blue-500 transition-colors">
+                  +31 12 345 6789
                 </a>
               </li>
-              <li>Hoogstraat 115</li>
-              <li>5615 PB Eindhoven</li>
+              <li>Eindhoven</li>
               <li>Netherlands</li>
             </ul>
           </div>

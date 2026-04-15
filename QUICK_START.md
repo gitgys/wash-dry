@@ -65,7 +65,7 @@ pnpm start
 ## Useful Tips
 
 - **Edit colors:** Change the design tokens in `/app/globals.css`
-- **Update phone:** Search for "+31402445798" in `/components/Contact.tsx`
+- **Update phone:** Search for "+31123456789" in `/components/Contact.tsx`
 - **Update address:** Search for "Hoogstraat 115" in `/components/Contact.tsx`
 - **3D scene:** Customize in `/components/ThreeDScene.tsx`
 

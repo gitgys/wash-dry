@@ -52,8 +52,7 @@ export default function Contact() {
                   Location
                 </h3>
                 <p className="text-muted-foreground">
-                  Hoogstraat 115<br />
-                  5615 PB Eindhoven<br />
+                  Eindhoven<br />
                   Netherlands
                 </p>
               </div>
@@ -67,8 +66,8 @@ export default function Contact() {
                 <h3 className="text-xl font-semibold text-foreground mb-1">
                   Phone
                 </h3>
-                <a href="tel:+31402445798" className="text-blue-500 hover:underline">
-                  +31 40 244 5798
+                <a href="tel:+31123456789" className="text-blue-500 hover:underline">
+                  +31 12 345 6789
                 </a>
               </div>
             </div>

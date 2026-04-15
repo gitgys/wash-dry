@@ -201,14 +201,14 @@ To use your own domain:
 
 #### Change Phone Number
 1. Open file: `/components/Contact.tsx`
-2. Find: `+31402445798`
+2. Find: `+31123456789`
 3. Replace with your phone number
 4. Save file
 5. Website updates automatically in dev server, or push to GitHub for production
 
 #### Change Address
 1. Open file: `/components/Contact.tsx`
-2. Find: `Hoogstraat 115` and `5615 PB Eindhoven`
+2. Find: `Eindhoven`
 3. Replace with your address
 4. Save file
 
@@ -392,7 +392,7 @@ Your Wash'n Dry website is now live!
 ---
 
 **Questions?**
-- Phone: +31 40 244 5798
+- Phone: +31 12 345 6789
 - Check TROUBLESHOOTING.md
 - Check README.md for more info
 

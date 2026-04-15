@@ -67,12 +67,12 @@ pnpm dev
 
 **Phone Number**
 - File: `/components/Contact.tsx`
-- Find: `+31402445798`
+- Find: `+31123456789`
 - Replace: Your phone
 
 **Address**
 - File: `/components/Contact.tsx`  
-- Find: `Hoogstraat 115, 5615 PB Eindhoven`
+- Find: `Eindhoven`
 - Replace: Your address
 
 **Hours**
@@ -403,8 +403,8 @@ vercel --prod
 ## Contact Information
 
 **For Your Business:**
-- Phone: +31 40 244 5798
-- Address: Hoogstraat 115, 5615 PB Eindhoven, Netherlands
+- Phone: +31 12 345 6789
+- Address: Eindhoven, Netherlands
 
 **For Help:**
 - See TROUBLESHOOTING.md

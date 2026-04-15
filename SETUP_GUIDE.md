@@ -261,6 +261,6 @@ If you encounter any issues:
 
 ## Questions or Feedback?
 
-For the Wash'n Dry business, contact: +31 40 244 5798
+For the Wash'n Dry business, contact: +31 12 345 6789
 
 Good luck with your website!

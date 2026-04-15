@@ -49,16 +49,16 @@ This document describes what your website looks like and what each section does.
 │  "Get in Touch"                                             │
 │                                                             │
 │  LEFT SIDE:              RIGHT SIDE:                        │
-│  📍 Location             [Contact Form]                      │
-│  Hoogstraat 115          Name: [______]                     │
-│  5615 PB Eindhoven       Email: [_____]                     │
+│  📍 Location             [Contact Form]                     │
+│                          Name: [______]                     │
+│  Eindhoven               Email: [_____]                     │
 │                          Message: [____]                    │
 │  📞 Phone               [Send Message]                      │
-│  +31 40 244 5798                                            │
+│  +31 12 345 6789                                            │
 │                                                             │
 │  🕐 Hours                                                   │
 │  Mon-Fri: 7AM-7PM                                           │
-│  Sat: 8AM-6PM                                              │
+│  Sat: 8AM-6PM                                               │
 │  Sun: Closed                                                │
 │                                                             │
 │  [Google Map Embedded Here]                                 │
@@ -69,11 +69,11 @@ This document describes what your website looks like and what each section does.
 │                       FOOTER                                │
 │                                                             │
 │  [W] Wash'n Dry          Quick Links      Contact Us        │
-│  Professional laundry    [Home]           +31 40 244 5798   │
-│  services since 2014     [Services]       Hoogstraat 115    │
-│                          [Contact]        5615 PB Eindhoven │
+│  Professional laundry    [Home]           +31 12 345 6789   │
+│  services since 2014     [Services]                         │
+│                          [Contact]                Eindhoven │
 │                                                             │
-│  © 2026 Wash'n Dry. All rights reserved.                   │
+│  © 2026 Wash'n Dry. All rights reserved.                    │
 │  [Privacy Policy] [Terms of Service]                        │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘

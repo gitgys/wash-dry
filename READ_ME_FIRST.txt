@@ -73,8 +73,8 @@ DONE! Your website is live.
 ✓ Modern clean design
 
 Your Business Info Already Included:
-- Phone: +31402445798
-- Address: Hoogstraat 115, 5615 PB Eindhoven, Netherlands
+- Phone: +31123456789
+- Address: Eindhoven, Netherlands
 - Hours: Mon-Fri 7AM-7PM, Sat 8AM-6PM
 - Services: Washing, Drying, Express, Fabric Care
 
@@ -186,8 +186,8 @@ Your customers will love it!
 ================================================================================
 
 Business:
-   Phone: +31 40 244 5798
-   Address: Hoogstraat 115, 5615 PB Eindhoven, Netherlands
+   Phone: +31 12 345 6789
+   Address: Eindhoven, Netherlands
 
 Help/Support:
    See: TROUBLESHOOTING.md
