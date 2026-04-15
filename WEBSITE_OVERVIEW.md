@@ -73,7 +73,7 @@ This document describes what your website looks like and what each section does.
 │  services since 2014     [Services]       Hoogstraat 115    │
 │                          [Contact]        5615 PB Eindhoven │
 │                                                             │
-│  © 2024 Wash'n Dry. All rights reserved.                   │
+│  © 2026 Wash'n Dry. All rights reserved.                   │
 │  [Privacy Policy] [Terms of Service]                        │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘

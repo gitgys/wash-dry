@@ -79,7 +79,7 @@ export default function Footer() {
 
         {/* Bottom Section */}
         <div className="flex flex-col sm:flex-row justify-between items-center text-sm text-muted-foreground">
-          <p>&copy; 2024 Wash&apos;n Dry. All rights reserved.</p>
+          <p>&copy; 2026 Wash&apos;n Dry. All rights reserved.</p>
           <div className="flex space-x-6 mt-4 sm:mt-0">
             <Link href="#" className="hover:text-blue-500 transition-colors">
               Privacy Policy
